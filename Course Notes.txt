@@ -5,3 +5,11 @@ Because HTML language forms the infrastructure of most technologies currently us
 Web programing=> ASP, PHP, Javascript, Node.js
 
 Mobile programing=> IOS, Android
+
+What is HTML?
+• HTML is the abbreviation of Hyper Text Markup Language.
+• HTML commands allow content such as text, images, audio, video to
+be placed on the page and displayed to the visitor.
+• One of the most important features of HTML is links, which allow
+us to go from one part of the page to another or to another page.
+
