@@ -71,9 +71,16 @@ What is Hosting?
 called hosting.
 • Depending on the size of the site you create, you can rent an area such as 10MB or the entire server.
 
-Web Page-> Web Server-> Ethernet-> Browser
+Web Page-> Web Server-> Internet-> Browser
 
+What is a Domain Name?
+• Domain names indicate your site's name, type (net, org, com) and country code.
+• You can choose domestic or foreign companies to purchase any domain name.
 
+Institution Type  /  Domain Name   / Extension   / Country Code
+Commercial Institution / Scientific / com / tr
+Public Institution, Association, Foundation / fenerbhce / org
+Internet Servie Provider / nioweb / net
 
 
 
