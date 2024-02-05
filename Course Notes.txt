@@ -13,3 +13,13 @@ be placed on the page and displayed to the visitor.
 • One of the most important features of HTML is links, which allow
 us to go from one part of the page to another or to another page.
 
+HTML Commands
+• HTML language consists of commands called tags or tags.
+• These commands come together to create the web/html page.
+• If you right-click on a web page and run the "View source"
+command, you can see the HTML codes that make up the page.
+
+HTML Page
+• The file extension of HTML pages is .htm or .html.
+• Even if there is no HTML code in the file you create, if you save the file with the .html extension, that file will still become an HTML page.
+• If you double-click on the web page you created, it will open with the default browser on your computer.
