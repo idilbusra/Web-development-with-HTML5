@@ -54,11 +54,13 @@ HTML Editors
 - Netbeans
 - Brackets
 
+Browser
+• Browsers are software that process and render page content according to HTML codes and display it to the user.
 
-
-
-
-
+What is Network (Web)?
+• Computers connected to each other in any home or workplace form a network.
+Such networks are called Local Area Network (LAN).
+• Local networks are connected to each other to form wide networks (WAN), and large networks are connected to each other to form the World Wide Web (WWW), which is a worldwide network.
 
 
 
