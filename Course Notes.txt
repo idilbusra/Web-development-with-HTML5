@@ -42,6 +42,28 @@ HTML, which started to be used in the CERN laboratory in 1980, has survived to t
 • HTML 5.2 (2015)
 • HTML 5.3 (2017)
 
+HTML Editors
+• Software used to write code is called editor.
+• The following HTML editors are widely used in the market:
+- Visual Studio
+- Visual Studio Code
+- Dreamweaver
+- Notepad++
+- Atom
+- Sublime
+- Netbeans
+- Brackets
+
+
+
+
+
+
+
+
+
+
+
 
 
 
