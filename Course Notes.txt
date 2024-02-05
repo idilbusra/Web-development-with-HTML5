@@ -62,7 +62,16 @@ What is Network (Web)?
 Such networks are called Local Area Network (LAN).
 • Local networks are connected to each other to form wide networks (WAN), and large networks are connected to each other to form the World Wide Web (WWW), which is a worldwide network.
 
+What is a Web Server?
+• If you want other people to visit HTML pages, you should
+put these pages on computers called Web Servers.
 
+What is Hosting?
+• Server disk space rented to publish your site on the internet is
+called hosting.
+• Depending on the size of the site you create, you can rent an area such as 10MB or the entire server.
+
+Web Page-> Web Server-> Ethernet-> Browser
 
 
 
