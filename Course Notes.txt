@@ -23,3 +23,32 @@ HTML Page
 • The file extension of HTML pages is .htm or .html.
 • Even if there is no HTML code in the file you create, if you save the file with the .html extension, that file will still become an HTML page.
 • If you double-click on the web page you created, it will open with the default browser on your computer.
+
+Who is the Inventor of HTML?
+• HTML language was developed in 1980 by Tim Berners-Lee, who worked at CERN laboratories.
+• Lee's aim was to create a system so that researchers working at CERN could easily share their information
+and documents.
+
+HTML Versions
+HTML, which started to be used in the CERN laboratory in 1980, has survived to the present day by adapting to current technologies with its new versions:
+• ENQUIRE (1980, prototype)
+• HTML 1 (1989)
+• HTML 2 (1995)
+• HTML 3.20 (1997)
+• HTML 4.0 (1997)
+• XHTML 1 (2000, compatible with XML)
+• HTML 5 (2007)
+• HTML 5.1 (2012)
+• HTML 5.2 (2015)
+• HTML 5.3 (2017)
+
+
+
+
+
+
+
+
+
+
+
