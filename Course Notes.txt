@@ -1,0 +1,7 @@
+Why should we learn HTML5?
+
+Because HTML language forms the infrastructure of most technologies currently used in the software world.
+
+Web programing=> ASP, PHP, Javascript, Node.js
+
+Mobile programing=> IOS, Android
